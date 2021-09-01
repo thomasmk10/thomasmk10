@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @thomasmk10
-- 👀 I’m interested in Augmented reality
-- 🌱 I’m currently learning React and React Native 
+
 
 
 <!---
